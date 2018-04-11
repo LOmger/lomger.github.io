@@ -33,8 +33,7 @@ hr {
 
 
 .btn {
-  margin-top: 50px;
-  margin-left: 475px;
+  padding: 35px;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
